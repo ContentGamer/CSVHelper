@@ -1,9 +1,6 @@
 import main as cvs
 import time
 
-cvs.createNew("Rida", "Ialioune")
-cvs.createNew("Abdlmjid", "Baco")
-cvs.createNew("Alan", "Becker")
-cvs.createNew("Hello", "Gay")
+cvs.createNew("Test", "Python")
 output = cvs.getCSVDataAsArray()
 print(output)
