@@ -1,24 +1,3 @@
 {
-    "csv": [
-        {
-            "id": 1,
-            "firstname": "Rida",
-            "lastname": "Ialioune"
-        },
-        {
-            "id": 2,
-            "firstname": "Abdlmjid",
-            "lastname": "Baco"
-        },
-        {
-            "id": 3,
-            "firstname": "Alan",
-            "lastname": "Becker"
-        },
-        {
-            "id": 4,
-            "firstname": "Hello",
-            "lastname": "Gay"
-        }
-    ]
+    "csv": []
 }
